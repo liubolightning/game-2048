@@ -1,5 +1,5 @@
 # Project Name #
-
+2048 game
 <!-- 
 
 There is an approach called "working backwards" that is widely used at Amazon. They work backwards from the customer, rather than starting with an idea for a product and trying to bolt customers onto it. While working backwards can be applied to any specific product decision, using this approach is especially important when developing new products or features.
@@ -13,13 +13,14 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Implement 2048 game using D3
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
+  > The customer of this product is anybody who feel like playing 2048 game.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Implement 2048 game using D3
 
 ## Problem ##
   > Describe the problem your product solves.
