@@ -22,7 +22,7 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 ## Summary ##
   > Implement 2048 game using D3
 
-## Problem ##
+<!-- ## Problem ##
   > Describe the problem your product solves.
 
 ## Solution ##
@@ -38,4 +38,4 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Wrap it up and give pointers where the reader should go next. -->
