@@ -15,12 +15,12 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 ## Heading ##
   > Implement 2048 game using D3
 
-## Sub-Heading ##
+<!--## Sub-Heading ##-->
 
-  > The customer of this product is anybody who feel like playing 2048 game.
+<!--  > The customer of this product is anybody who feel like playing 2048 game.-->
 
-## Summary ##
-  > Implement 2048 game using D3
+<!--## Summary ##-->
+<!--  > Implement 2048 game using D3-->
 
 <!-- ## Problem ##
   > Describe the problem your product solves.
